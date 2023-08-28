@@ -35,7 +35,9 @@ And, of course, you can easily customize the label separator (`-`) and the level
 
     </details>
 
-3. **Create a Google Apps Script project** at https://script.google.com/. Copy all contents from [./Code.gs](./Code.gs) of this project and paste to `Code.gs` of your Google Apps Script project, and then save the project.
+3. **Create a Google Apps Script project** at https://script.google.com/. Copy all contents from [./Code.gs](./Code.gs) of this project and paste to `Code.gs` of your Google Apps Script project, and then save the project. 
+
+    After saving, you should run the project at least once manually by clicking the "Run" button, so that you can authorize the script to access your account.
 
     <details>
     <summary>Screenshot</summary>
